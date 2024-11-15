@@ -1,47 +1,44 @@
-<h1 align="center">
-  💻<br>Portfólio - Iuri Silva
-</h1>
+# vCard - Personal portfolio
 
-![Resultado final do projeto](assets/image/preview.png)
+![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
+![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
+![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
+[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
 
-<h4 align="center"><a href="https://www.iuricode.com/">Clique para visitar o projeto</a></h4>
+vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
-## 📚 Seções
+## Demo
 
-O site é composto por seis seções:
+![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
-- **Home:** Nele temos uma breve apresentação;
-- **Quem sou:** Nessa seção tenho uma descrição dizendo um pouco sobre quem sou;
-- **Experiências:** Abordo algumas empresas da qual prestei meus serviços na área de desenvolvimento e design;
-- **Projetos:** Apresenta alguns projetos desenvolvidos e com link direto para os respectivos códigos no GitHub;
-- **Serviços:** Exibe através de cards os diferentes serviços em que possuo conhecimentos;
-- **Conhecimentos:** Nele apresentamos meus conhecimentos em algumas linguagens como o foco no front-end;
+## Prerequisites
 
----
+Before you begin, ensure you have met the following requirements:
 
-## 💼 Tecnologias utilizadas
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-Para o desenvolvimento deste site utilizei as seguintes tecnologias:
+## Installing vCard
 
-- HTML;
-- Sass;
-- JavaScript;
-- ScrollReveal;
-- SVG Inject;
+To install **vCard**, follow these steps:
 
----
+Linux and macOS:
 
-<h2>🦄 Autor</h2>
+```bash
+sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+```
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/iuricode">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
-        <sub>
-          <b>Iuri Silva</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
+Windows:
+
+```bash
+git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+```
+
+## Contact
+
+If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+
+## License
+
+MIT
